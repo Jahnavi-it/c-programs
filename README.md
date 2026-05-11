@@ -1,2 +1,9 @@
-# c-programs
-Basic C Programming examples and coding practice
+# C Programs
+
+This repository contains basic C programming examples.
+
+## Topics
+- Variables
+- Loops
+- Arrays
+- Functions
